@@ -1,2 +1,2 @@
 # tic-tac-throwdown
-Combat-oriented Tic Tac Toe
+Combat Tic Tac Toe
